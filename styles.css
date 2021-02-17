@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+
+
+.main-container{
+    background-color: aqua;
+    height: 60vh;
+    width: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: right;
+    box-shadow: 10px 40px black;
+}
+.main-container input{
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.h1{
+    text-align: left;
+   top: 250px;
+   margin-left: 30px;
+   position: fixed;
+}
+
+
+.h2{
+    text-align: left;
+    text-align: left;
+   top: 300px;
+   margin-left: 30px;
+   position: fixed;
+}
+
+body{
+    background-color:purple ;
+    font-family: 'Long Cang', cursive;
+}
+
+.titles{
+    text-align: center;
+    height: 20%;
+    background-color: blueviolet;
+    margin-top: 20px;
+}
+
+.button
+{
+    background-color: transparent;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#button{
+    background-color: transparent;
+    padding: 6px;
+    border: 2px solid ;
+    border-color: black;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+#button:hover{
+    padding: 6px;
+    border: 2px solid ;
+    border-color: white;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    
+}
